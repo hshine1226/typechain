@@ -1,0 +1,18 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hshine1226/typechain.git",
+  "author": "hshine1226 <hshine1226@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  },
+  "scripts": {
+    "start": "nodemon --exec ts-node index.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "ts-node": "^9.1.1"
+  }
+}

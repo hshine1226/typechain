@@ -6,6 +6,7 @@
   "author": "hshine1226 <hshine1226@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "typescript": "^4.1.5"
   },
   "scripts": {
